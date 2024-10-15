@@ -12,7 +12,7 @@
  pip install -r requirements.txt
 ```
  ```
- python3 bybit.py
+ python3 BybitCoinSweeper.py
 ```
 #### Donations through telegram @demoncratos
 #### our telegram Channel @whywetap
